@@ -31,9 +31,7 @@ Tech enthusiast, I enjoy exploring and understanding complex topics. I've had th
 <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AMfeta99" alt="Profile Views" />
-</a>
+![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue)
 
 
 ### Skills
