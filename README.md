@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 AI Research Engineer | BioEngineer
 ----------------------------------
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
 
 * 🌍  Portugal | Netherlands
