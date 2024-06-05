@@ -64,6 +64,9 @@ Tech enthusiast, I enjoy exploring and understanding complex topics. I've had th
 
 <a href="https://github.com/AMfeta99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMfeta99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/AMfeta99/Advanced_Computer_Vision" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AMfeta99&repo=Advanced_Computer_Vision&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AMfeta99/NLP_LLM" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AMfeta99&repo=NLP_LLM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+-->
