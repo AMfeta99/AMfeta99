@@ -29,7 +29,7 @@ Tech enthusiast, I enjoy exploring and understanding complex topics. I've had th
 * 🤝  I'm open to collaborating on 3D Computer Vision projects
 
 
-![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=flat-square) <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
+![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge) <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
