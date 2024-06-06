@@ -68,6 +68,7 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 - [Intro_AWS](https://coursera.org/share/f0bc5e7f70ab2e637570a7b8b8a0705a)
 - [Data_Engineering AWS](https://www.coursera.org/account/accomplishments/verify/T7NDL46DPZCJ)
 
+----------------------------------------------------------
 ## Skills
 
 
