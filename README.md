@@ -18,6 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 AI Research Engineer | BioEngineer
+who aims to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 ----------------------------------
 
 ![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge)  <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
@@ -27,6 +28,9 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
+* 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
+* 🧠  I'm learning LLMs, 3D Computer Vision, AR/VR
+* 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
 
 
 # Could AI ... 
@@ -51,11 +55,6 @@ Analyzing and understanding visual data is fascinating to me. I enjoy exploring 
 Unlocking the power of language with AI is one of my main focuses. I've delved into various NLP techniques and utilized large language models like GPT to tackle challenging tasks. Here are some projects where I've combined NLP techniques with the capabilities of large language models:
 - [NLP_LLM](https://github.com/AMfeta99/NLP_LLM)
 - [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
-
-
-* 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
-* 🧠  I'm learning LLMs, 3D Computer Vision
-* 🤝  I'm open to collaborating on 3D Computer Vision projects
 
 
 ### Skills
