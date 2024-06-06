@@ -28,7 +28,7 @@ Who aim to bridge the gap between technology and essential aspects of human well
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
-* 🧠  I'm learning LLMs, GenAI, 3D Computer Vision
+* 🧠  I am improving knowledge/skills in LLMs, GenAI, 3D Computer Vision
 * 🤔  I'm interested in getting into the AI Agents and AR/VR topics
 * 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
 
