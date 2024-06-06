@@ -32,8 +32,12 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
 
-# AI Interest
-Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
+# AI EXPERIENCE/INTERESTS
+I thrive on unraveling the intricacies of complex subjects, diving deep into Deep Learning, Generative AI, Natural Language Processing, and Computer Vision. With the privilege of immersing myself in cutting-edge technologies, I explore these fascinating worlds, driven by the transformative potential of AI to effect meaningful change.
+
+
+Whether creating captivating interactions , infusing AR/VR or robotics with computer vision, and from harnessing the power of large language models to unlock new frontiers in understanding and generation, I'm continuously inspired to innovate. My ultimate goal? To leverage technology to enhance lives and make a tangible, positive impact on the world.
+
 ### Generative AI
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs and even Dissuion models. Here are some of my projects in this field:
 - [Publication](https://www.sciencedirect.com/science/article/pii/S1746809423010431?via%3Dihub)
