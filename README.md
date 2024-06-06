@@ -19,10 +19,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 AI Research Engineer | BioEngineer
 ----------------------------------
-who aims to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
-
 ![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge)  <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Who aim to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
