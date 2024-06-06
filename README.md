@@ -29,7 +29,8 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
-* 🧠  I'm learning LLMs, 3D Computer Vision, AR/VR
+* 🧠  I'm learning LLMs, 3D Computer Vision
+* 🤔  I'm interested in getting into the AR/VR field
 * 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
 
 
@@ -57,7 +58,7 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 - [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
 
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -65,7 +66,7 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://discord.com/users/anamaria4858" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ana-maria-sousa-bioeng/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 <!--
