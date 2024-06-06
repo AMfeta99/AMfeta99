@@ -19,8 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 AI Research Engineer | BioEngineer
 ----------------------------------
-# Could AI ...
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5100&pause=1200&random=false&width=650&lines=extend+our+life+by+earlier+disease+diagnosis%3F;Understand+Us+%3F;be+Key+to+solve+Humanity's+Greatest+Challenges%3F)](https://git.io/typing-svg)
+# Could AI ... [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5100&pause=1200&random=false&width=650&lines=extend+our+life+by+earlier+disease+diagnosis%3F;Understand+Us+%3F;be+Key+to+solve+Humanity's+Greatest+Challenges%3F)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge)  <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
