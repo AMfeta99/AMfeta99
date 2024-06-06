@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ana Maria
 =================================================================================================================================
-**AMfeta99/AMfeta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 AI Research Engineer | BioEngineer
 ----------------------------------
 <!--
@@ -27,11 +27,18 @@ https://readme-typing-svg.demolab.com/demo/
 ![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge)  <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
 
 * 🌍  Portugal | Netherlands
-* 🖥️  See my portfolio at [Projects](http://amfeta99.github.io/proj.html)
+* 🖥️  See my Personal Website at [Ãna Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
+
+Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
+## AI Interests: 
+* Generative AI
+* 2D/3D Computer Vision
+* Natural Language Processing
+* Large Language Models
+
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
 * 🧠  I'm learning LLMs, 3D Computer Vision
 * 🤝  I'm open to collaborating on 3D Computer Vision projects
