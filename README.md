@@ -29,16 +29,30 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 
 
 * 🌍  Portugal | Netherlands
-* 🖥️  See my Personal Website at [Ãna Sousa](http://amfeta99.github.io/)
+* 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
 
 Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
-## AI Interests: 
-* Generative AI
-* 2D/3D Computer Vision
-* Natural Language Processing
-* Large Language Models
+## Generative AI
+I love exploring the creative potential of AI through generative models. Check out some of my projects in this area:
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
 
+## 2D/3D Computer Vision
+Analyzing and understanding visual data is fascinating to me. Here are some projects where I've applied computer vision techniques:
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+
+## Natural Language Processing
+Unlocking the power of language with AI is one of my main focuses. Here are some NLP projects I've worked on:
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+
+## Large Language Models
+I'm intrigued by the capabilities and applications of large language models like GPT. Here are some projects where I've utilized these models:
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+- 
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
 * 🧠  I'm learning LLMs, 3D Computer Vision
 * 🤝  I'm open to collaborating on 3D Computer Vision projects
