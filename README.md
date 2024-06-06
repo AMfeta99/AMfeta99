@@ -41,6 +41,7 @@ I thrive on unraveling the intricacies of complex subjects, diving deep into Dee
 
 
 Whether creating captivating interactions , infusing AR/VR or robotics with computer vision, and from harnessing the power of large language models to unlock new frontiers in understanding and generation, I'm continuously inspired to innovate. 
+
 My ultimate goal? To leverage technology to enhance lives and make a tangible, positive impact on the world.
 
 ### Generative AI
