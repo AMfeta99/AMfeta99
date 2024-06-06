@@ -63,10 +63,10 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 
 
 ## Other Certifications:
--[MLOPs_Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VXSBJE9ZVNMC)
--[Intro_DevOps](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GLQNCTJEAUNGG)
--[Intro_AWS](https://coursera.org/share/f0bc5e7f70ab2e637570a7b8b8a0705a)
--[Data_Engineering AWS](https://www.coursera.org/account/accomplishments/verify/T7NDL46DPZCJ)
+- [MLOPs_Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VXSBJE9ZVNMC)
+- [Intro_DevOps](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GLQNCTJEAUNGG)
+- [Intro_AWS](https://coursera.org/share/f0bc5e7f70ab2e637570a7b8b8a0705a)
+- [Data_Engineering AWS](https://www.coursera.org/account/accomplishments/verify/T7NDL46DPZCJ)
 
 ## Skills
 
