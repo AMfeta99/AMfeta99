@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ana Maria
+=================================================================================================================================
 ![](https://komarev.com/ghpvc/?username=your-github-AMfeta99&color=blue&style=for-the-badge)  <a href="https://www.github.com/AMfeta99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+# Could AI ... 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5100&pause=1200&random=false&width=650&lines=extend+our+life+by+earlier+disease+diagnosis%3F;Understand+Us+%3F;be+Key+to+solve+Humanity's+Greatest+Challenges%3F)](https://git.io/typing-svg)
+
 
 
 AI Research Engineer | BioEngineer
 who aims to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 ----------------------------------
-
 
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
@@ -31,9 +36,6 @@ who aims to bridge the gap between technology and essential aspects of human wel
 * 🤔  I'm interested in getting into the AR/VR field
 * 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
 
-
-# Could AI ... 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5100&pause=1200&random=false&width=650&lines=extend+our+life+by+earlier+disease+diagnosis%3F;Understand+Us+%3F;be+Key+to+solve+Humanity's+Greatest+Challenges%3F)](https://git.io/typing-svg)
 
 # AI EXPERIENCE/INTERESTS
 I thrive on unraveling the intricacies of complex subjects, diving deep into Deep Learning, Generative AI, Natural Language Processing, and Computer Vision. With the privilege of immersing myself in cutting-edge technologies, I explore these fascinating worlds, driven by the transformative potential of AI to effect meaningful change.
