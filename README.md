@@ -25,8 +25,8 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 
 
 AI Research Engineer | BioEngineer
-who aims to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 ----------------------------------
+who aims to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
