@@ -40,7 +40,8 @@ Who aim to bridge the gap between technology and essential aspects of human well
 I thrive on unraveling the intricacies of complex subjects, diving deep into Deep Learning, Generative AI, Natural Language Processing, and Computer Vision. With the privilege of immersing myself in cutting-edge technologies, I explore these fascinating worlds, driven by the transformative potential of AI to effect meaningful change.
 
 
-Whether creating captivating interactions , infusing AR/VR or robotics with computer vision, and from harnessing the power of large language models to unlock new frontiers in understanding and generation, I'm continuously inspired to innovate. My ultimate goal? To leverage technology to enhance lives and make a tangible, positive impact on the world.
+Whether creating captivating interactions , infusing AR/VR or robotics with computer vision, and from harnessing the power of large language models to unlock new frontiers in understanding and generation, I'm continuously inspired to innovate. 
+My ultimate goal? To leverage technology to enhance lives and make a tangible, positive impact on the world.
 
 ### Generative AI
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs, Diffusion Models, and Even Transformers. In this field, my experience is primarily professional. Therefore, I cannot share specific projects due to rights restrictions and the sensitivity of medical data. However, here is the public material I have in this field:
