@@ -51,7 +51,7 @@ I love exploring the creative potential of AI through generative models, from Au
 Analyzing and understanding visual data is fascinating to me. I enjoy exploring complex topics and bridging the gap between computer vision models and applications in AR/VR or robotics, bringing them to life. Here are some repositories with notes and projects where I've applied computer vision techniques:
  - [Advanced Computer Vision](https://github.com/AMfeta99/Advanced_Computer_Vision) 
  - [3D Deep learning](https://github.com/AMfeta99/3D_DeepLearning)
- - Projs: [Auto_ValueExtractionOCR](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
+ - Projs: [ValueExtractionOCR](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
  - Certifications: [AI_Med_diag](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3); [Advanced_CV_TF](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA)
 
 ### Natural Language Processing & Large Language Models
@@ -61,6 +61,10 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 - Publication: [Link](https://repositorio-aberto.up.pt/handle/10216/144617) 
 - Certifications: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [Fine-tuning_LLM](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [LangChain](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
+
+## Other Certifications:
+-[MLOPs_Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VXSBJE9ZVNMC)
+-[Intro_DevOps](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GLQNCTJEAUNGG)
 
 ## Skills
 
