@@ -35,21 +35,20 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 # AI Interest
 Tech enthusiast, I enjoy exploring and understanding complex topics. I've had the opportunity to explore/work on Deep Learning, Gen AI, NLP, Computer Vision...
 ### Generative AI
-I love exploring the creative potential of AI through generative models. Check out some of my projects in this area:
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
+I love exploring the creative potential of AI through generative models, from Autoencoders to GANs and even Dissuion models. Here are some of my projects in this field:
+- [Publication](https://www.sciencedirect.com/science/article/pii/S1746809423010431?via%3Dihub)
 
-### Computer Vision
-Analyzing and understanding visual data is fascinating to me. Here are some projects where I've applied computer vision techniques:
+### 2D/3D Computer Vision
+Analyzing and understanding visual data is fascinating to me. I enjoy exploring complex topics and bridging the gap between computer vision models and applications in AR/VR or robotics, bringing them to life. Here are some repositories with notes and projects where I've applied computer vision techniques:
 - [Advanced Computer Vision](https://github.com/AMfeta99/Advanced_Computer_Vision) 
 - [3D Deep learning](https://github.com/AMfeta99/3D_DeepLearning)
 
 ### Natural Language Processing & Large Language Models
-Unlocking the power of language with AI is one of my main focuses. Here are some projects where I've explored both NLP techniques and utilized large language models like GPT:
+Unlocking the power of language with AI is one of my main focuses. I've delved into various NLP techniques and utilized large language models like GPT to tackle challenging tasks. Here are some projects where I've combined NLP techniques with the capabilities of large language models:
 - [NLP_LLM](https://github.com/AMfeta99/NLP_LLM)
 - [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
 
-- 
+
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
 * 🧠  I'm learning LLMs, 3D Computer Vision
 * 🤝  I'm open to collaborating on 3D Computer Vision projects
