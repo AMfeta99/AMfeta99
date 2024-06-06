@@ -46,6 +46,7 @@ My ultimate goal? To leverage technology to enhance lives and make a tangible, p
 
 ### Generative AI
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs, Diffusion Models, and Even Transformers. In this field, my experience is primarily professional. Therefore, I cannot share specific projects due to rights restrictions and the sensitivity of medical data. However, here is the public material I have in this field:
+- [Generative AI](https://github.com/AMfeta99/Generative_AI/tree/main)
 - Publication: [Link](https://www.sciencedirect.com/science/article/pii/S1746809423010431?via%3Dihub)
 - Certifications: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW)
 
