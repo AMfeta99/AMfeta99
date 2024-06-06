@@ -24,8 +24,6 @@ src="https://img.shields.io/github/followers/AMfeta99?logo=github&style=for-the-
 
 Who aim to bridge the gap between technology and essential aspects of human well-being, including healthcare, psychology, and beyond....
 
-**My ultimate goal?** _To leverage technology to enhance lives and make a tangible, positive impact on the world._
-
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
@@ -44,6 +42,8 @@ I thrive on unraveling the intricacies of complex subjects, diving deep into Dee
 
 
 Whether creating captivating interactions , infusing AR/VR or robotics with computer vision, and from harnessing the power of large language models to unlock new frontiers in understanding and generation, I'm continuously inspired to innovate. 
+
+**My ultimate goal?** _To leverage technology to enhance lives and make a tangible, positive impact on the world._
 
 ### Generative AI
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs, Diffusion Models, and Even Transformers. In this field, my experience is primarily professional. Therefore, I cannot share specific projects due to rights restrictions and the sensitivity of medical data. However, here is the public material I have in this field:
