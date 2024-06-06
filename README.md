@@ -62,7 +62,7 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 - Certifications: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [Fine-tuning_LLM](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [LangChain](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 
-## Other Certifications:
+### Other Certifications:
 - [MLOPs_Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VXSBJE9ZVNMC)
 - [Intro_DevOps](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-devops1?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view&referrer_code=GLQNCTJEAUNGG)
 - [Intro_AWS](https://coursera.org/share/f0bc5e7f70ab2e637570a7b8b8a0705a)
