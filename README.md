@@ -39,15 +39,15 @@ I love exploring the creative potential of AI through generative models. Check o
 - [Project 1](link-to-project-1)
 - [Project 2](link-to-project-2)
 
-### 2D/3D Computer Vision
+### Computer Vision
 Analyzing and understanding visual data is fascinating to me. Here are some projects where I've applied computer vision techniques:
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
+- [Advanced Computer Vision](https://github.com/AMfeta99/Advanced_Computer_Vision) 
+- [3D Deep learning](https://github.com/AMfeta99/3D_DeepLearning)
 
 ### Natural Language Processing & Large Language Models
 Unlocking the power of language with AI is one of my main focuses. Here are some projects where I've explored both NLP techniques and utilized large language models like GPT:
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
+- [NLP_LLM](https://github.com/AMfeta99/NLP_LLM)
+- [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
 
 - 
 * 🚀  I'm currently working on [LLM\_vs\_HumanMinds](http://github.com/AMfeta99/LLM-vs.-Human-Minds)
