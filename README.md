@@ -34,7 +34,7 @@ Who aim to bridge the gap between technology and essential aspects of human well
 
 ----------------------------------
 # Could AI ... 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5100&pause=1000&random=false&width=650&lines=Be+Our+Greatest+Ally%3F%22;Understand+Us%3F;Extend+Our+Lives+Through+Early+Disease+Diagnosis%3F;Be+Key+to+solve+Humanity's+Greatest+Challenges%3F;Overcome+the+Barriers+of+Distance+with+AR%2FVR%3F;Help+Us+Unlock+the+Mysteries+of+our+DNA%3F;Provide+deeper+insights+into+the+Universe%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=5100&pause=1000&random=false&width=650&lines=Be+Our+Greatest+Ally%3F;Understand+Us%3F;Extend+Our+Lives+Through+Early+Disease+Diagnosis%3F;Be+Key+to+solve+Humanity's+Greatest+Challenges%3F;Overcome+the+Barriers+of+Distance+with+AR%2FVR%3F;Help+Us+Unlock+the+Mysteries+of+our+DNA%3F;Provide+deeper+insights+into+the+Universe%3F)](https://git.io/typing-svg)
 
 
 # AI Experience/Interests
