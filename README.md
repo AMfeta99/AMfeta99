@@ -55,7 +55,7 @@ I love exploring the creative potential of AI through generative models, from Au
 Analyzing and understanding visual data is fascinating to me. I enjoy exploring complex topics and bridging the gap between computer vision models and applications in AR/VR or robotics, bringing them to life. Here are some repositories with notes and projects where I've applied computer vision techniques:
  - [Advanced Computer Vision](https://github.com/AMfeta99/Advanced_Computer_Vision) 
  - [3D Deep learning](https://github.com/AMfeta99/3D_DeepLearning) (_Under construction_)
- - Projs: [ValueExtractionOCR](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa)
+ - Projs: [ValueExtractionOCR](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa), [BrainTumorDiagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF)
  - Certifications: [AI_Med_diag](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3); [Advanced_CV_TF](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA)
 
 ### Natural Language Processing & Large Language Models
