@@ -56,7 +56,7 @@ Analyzing and understanding visual data is fascinating to me. I enjoy exploring 
  - [Advanced Computer Vision](https://github.com/AMfeta99/Advanced_Computer_Vision) 
  - [3D Deep learning](https://github.com/AMfeta99/3D_DeepLearning) (_Under construction_)
  - Projs: [ValueExtractionOCR](https://github.com/AMfeta99/Klippa_ML_assessment_AnaSousa), [BrainTumorDiagnosis App](https://github.com/AMfeta99/Advanced_Computer_Vision/tree/main/Computer_Vision_HF/brain_tumor_diagnosis_app_HF)
- - Certifications: [AI_Med_diag](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3); [Advanced_CV_TF](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA)
+ - Certifications: [AI_Med_diag](https://www.coursera.org/account/accomplishments/certificate/Y6W58TZVBGA3); [Advanced_CV_TF](https://www.coursera.org/account/accomplishments/certificate/DDXQAQBTVVTA); [Prompt_Vision_Model]()
 
 ### Natural Language Processing & Large Language Models
 Unlocking the power of language with AI is one of my main focuses. I've delved into various NLP techniques and utilized large language models like GPT to tackle challenging tasks. Here are some projects where I've combined NLP techniques with the capabilities of large language models:
