@@ -27,7 +27,7 @@ Who aim to bridge the gap between technology and essential aspects of human well
 * 🌍  Portugal | Netherlands
 * 🖥️  See my Personal Website at [Ana Sousa](http://amfeta99.github.io/)
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
-* 🚀  I'm currently working on [Generative AI](https://github.com/AMfeta99/Generative_AI/tree/main)
+* 🚀  I'm currently working on [Color Wizard](https://github.com/AMfeta99/Generative_AI/)
 * 🧠  I'm improving knowledge/skills in LLMs, GenAI, 3D Computer Vision
 * 🤔   I'm interested in getting into the AI Agents and AR/VR topics
 * 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
@@ -47,8 +47,9 @@ Whether creating captivating interactions , infusing AR/VR or robotics with comp
 
 ### Generative AI
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs, Diffusion Models, and Even Transformers. In this field, my experience is primarily professional. Therefore, I cannot share specific projects due to rights restrictions and the sensitivity of medical data. However, here is the public material I have in this field:
-- [Generative AI](https://github.com/AMfeta99/Generative_AI/tree/main) (_Under construction_)
+- [Generative AI](https://github.com/AMfeta99/Generative_AI/tree/main)
 - Publication: [Link](https://www.sciencedirect.com/science/article/pii/S1746809423010431?via%3Dihub)
+- Projs: [ColorWizard](https://github.com/AMfeta99/Generative_AI/)(_Under construction_)
 - Certifications: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [DDPM_&_DDIM](https://learn.deeplearning.ai/accomplishments/66cefb99-0382-4ebf-9379-84032f7d1249?usp=sharing)
 
 ### 2D/3D Computer Vision
