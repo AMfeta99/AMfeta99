@@ -49,7 +49,7 @@ Whether creating captivating interactions , infusing AR/VR or robotics with comp
 I love exploring the creative potential of AI through generative models, from Autoencoders to GANs, Diffusion Models, and Even Transformers. In this field, my experience is primarily professional. Therefore, I cannot share specific projects due to rights restrictions and the sensitivity of medical data. However, here is the public material I have in this field:
 - [Generative AI](https://github.com/AMfeta99/Generative_AI/tree/main)
 - Publication: [Link](https://www.sciencedirect.com/science/article/pii/S1746809423010431?via%3Dihub)
-- Projs: [ColorWizard](https://github.com/AMfeta99/Generative_AI/)(_Under construction_)
+- Projs: [ColorWizard](https://github.com/AMfeta99/Generative_AI/) (_Under construction_)
 - Certifications: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [DDPM_&_DDIM](https://learn.deeplearning.ai/accomplishments/66cefb99-0382-4ebf-9379-84032f7d1249?usp=sharing)
 
 ### 2D/3D Computer Vision
