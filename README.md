@@ -29,7 +29,7 @@ Who aim to bridge the gap between technology and essential aspects of human well
 * ✉️  You can contact me at [anamariaas.eng@gmail.com](mailto:anamariaas.eng@gmail.com)
 * 🚀  I'm currently working on [ColorWizard](https://github.com/AMfeta99/Generative_AI/tree/main/ColorWizard)
 * 🧠  I'm improving knowledge/skills in LLMs, GenAI, 3D Computer Vision
-* 🤔   I'm interested in getting into the AI Agents and AR/VR topics
+* 🤔  I'm interested in getting into the AI alignment and AR/VR topics
 * 🤝  I'm open to collaborating with fellow AI Enthusiasts and Innovators
 
 ----------------------------------
