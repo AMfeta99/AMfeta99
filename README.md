@@ -70,7 +70,7 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 ### Other Certifications:
 - MLOPs: [MLOPs_Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/VXSBJE9ZVNMC), [Intro_DevOps](https://www.mygreatlearning.com/certificate/RNHWWXNQ)
 - AWS: [Intro_AWS](https://coursera.org/share/f0bc5e7f70ab2e637570a7b8b8a0705a), [Data_Engineering AWS](https://www.coursera.org/account/accomplishments/verify/T7NDL46DPZCJ)
-- AI Agents: [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing), [Multi_AI_Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing), [Multi_AI_Agents_&_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing)
+- AI Agents: [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing), [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing), [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing)
 - On Device AI: [Intro_on_device AI](https://learn.deeplearning.ai/accomplishments/7e64d58f-794a-43ac-a999-5503d27f576b?usp=sharing)
 - Hugging Face: [Open_Source_Models_HF](https://learn.deeplearning.ai/accomplishments/edd7e688-043e-4a76-8710-73f8fe9bebb7?usp=sharing)
 
