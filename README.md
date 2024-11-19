@@ -64,8 +64,8 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 - [NLP_LLM](https://github.com/AMfeta99/NLP_LLM)
 - Projs: [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
 - Publication: [Link](https://repositorio-aberto.up.pt/handle/10216/144617) 
-- Certifications LLMs: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [Fine-tuning_LLM](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing);
-- Certifications AI Agents and Multi-Agents [LangChain](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing),  [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing), [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing)
+- Certifications LLMs: [GenAI_LLMs](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [Fine-tuning_LLM](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing);  [LangChain](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing)
+- Certifications AI Agents and Multi-Agents: [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/),  [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing), [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing)
 
 
 ### Other Certifications:
