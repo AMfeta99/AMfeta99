@@ -68,6 +68,8 @@ Unlocking the power of language with AI is one of my main focuses. I've delved i
 
  
 ### AI Agents & Multi-Agents Sytems
+AI agents and multi-agent systems are changing the game—smart, autonomous systems that work together, make decisions, and adapt on the fly. Whether it’s streamlining complex tasks or simulating real-world teamwork, these systems bring powerful, real-time intelligence to everything they touch. From simple applications to complex simulations, I'm diving deep into this promising field—exploring how AI agents and multi-agent systems are shaping the future of intelligent automation and transforming the way AI gets things done.
+
 - [AI_Agents](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents)
 - Projs: [TimeMetamorphy](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/TimeMetamorphy), [BankWise.AI](https://github.com/AMfeta99/BankWise.AI_AnaSousa)
 - Certifications AI Agents and Multi-Agents: [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/),  [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing), [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing)
