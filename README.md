@@ -80,6 +80,7 @@ AI agents and multi-agent systems are changing the game—smart, autonomous syst
 - On Device AI: [Intro_on_device AI](https://learn.deeplearning.ai/accomplishments/7e64d58f-794a-43ac-a999-5503d27f576b?usp=sharing)
 - Hugging Face: [Open_Source_Models_HF](https://learn.deeplearning.ai/accomplishments/edd7e688-043e-4a76-8710-73f8fe9bebb7?usp=sharing)
 - AGILE Project Management: [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/L7HJBYCTZ4HR)
+- Health/Wellness: [Managing Your Health: Physical Therapy & Exercise](https://www.coursera.org/account/accomplishments/verify/FKW8NIBOHN1A)
 
 ----------------------------------------------------------
 ## Skills
